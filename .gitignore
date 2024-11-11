@@ -1,0 +1,17 @@
+.vs/
+/Build/
+Library/
+Logs/
+Temp/
+obj/
+Packages/
+UserSettings/
+.vsconfig
+sleek/
+Assets/Editor Default Resources
+Assets/ExternalDependencyManager
+Assets/Firebase
+Assets/MediaPipeUnity
+Assets/Plugins
+Server/Socket/SocketTestServer
+Server/TestWebServer
