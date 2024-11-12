@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{931036EE-CC9C-8454-A049-58A200A6B1C9}</ProjectGuid>
+    <ProjectGuid>{A4271C62-D439-C9F0-7E56-591C9EAC00C8}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -1277,15 +1277,15 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="NativeFilePicker.Editor.csproj">
-      <Project>{EA4A382E-5779-E7FD-2F2E-BDD097C934A0}</Project>
+      <Project>{E35DF3B4-B093-8D87-2E65-AF39DD6F8332}</Project>
       <Name>NativeFilePicker.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Mediapipe.Runtime.csproj">
-      <Project>{3EA1320D-C1D6-441F-F622-BDECBF4E3211}</Project>
+      <Project>{10C2B71E-77A3-44A3-7E7D-45395A416734}</Project>
       <Name>Mediapipe.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="NativeFilePicker.Runtime.csproj">
-      <Project>{8FA55A5F-0948-E584-63EE-251111B3BB03}</Project>
+      <Project>{CF378AE0-A61F-62FD-7067-EA5FBAD7F84F}</Project>
       <Name>NativeFilePicker.Runtime</Name>
     </ProjectReference>
   </ItemGroup>

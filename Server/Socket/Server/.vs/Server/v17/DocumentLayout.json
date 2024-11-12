@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\spm-app\\app\\Server\\Socket\\Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85A5E877-E7EB-4EAC-A9F4-70A37B0463C3}|Server\\Server.csproj|f:\\spm-app\\app\\server\\socket\\server\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A5E877-E7EB-4EAC-A9F4-70A37B0463C3}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560D71D8-BD05-4EAC-BE90-0238A2DC7A6E}|ServerCore\\ServerCore.csproj|f:\\spm-app\\app\\server\\socket\\server\\servercore\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560D71D8-BD05-4EAC-BE90-0238A2DC7A6E}|ServerCore\\ServerCore.csproj|solutionrelative:servercore\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560D71D8-BD05-4EAC-BE90-0238A2DC7A6E}|ServerCore\\ServerCore.csproj|f:\\spm-app\\app\\server\\socket\\server\\servercore\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560D71D8-BD05-4EAC-BE90-0238A2DC7A6E}|ServerCore\\ServerCore.csproj|solutionrelative:servercore\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560D71D8-BD05-4EAC-BE90-0238A2DC7A6E}|ServerCore\\ServerCore.csproj|f:\\spm-app\\app\\server\\socket\\server\\servercore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560D71D8-BD05-4EAC-BE90-0238A2DC7A6E}|ServerCore\\ServerCore.csproj|solutionrelative:servercore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560D71D8-BD05-4EAC-BE90-0238A2DC7A6E}|ServerCore\\ServerCore.csproj|f:\\spm-app\\app\\server\\socket\\server\\servercore\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560D71D8-BD05-4EAC-BE90-0238A2DC7A6E}|ServerCore\\ServerCore.csproj|solutionrelative:servercore\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E044C3E-B775-4835-8615-75AC4BC1465F}|Client\\Client.csproj|f:\\spm-app\\app\\server\\socket\\server\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E044C3E-B775-4835-8615-75AC4BC1465F}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A5E877-E7EB-4EAC-A9F4-70A37B0463C3}|Server\\Server.csproj|f:\\spm-app\\app\\server\\socket\\server\\server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{85A5E877-E7EB-4EAC-A9F4-70A37B0463C3}|Server\\Server.csproj|solutionrelative:server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E044C3E-B775-4835-8615-75AC4BC1465F}|Client\\Client.csproj|f:\\spm-app\\app\\server\\socket\\server\\client\\client.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2E044C3E-B775-4835-8615-75AC4BC1465F}|Client\\Client.csproj|solutionrelative:client\\client.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Client",
+              "DocumentMoniker": "F:\\spm-app\\app\\Server\\Socket\\Server\\Client\\Client.csproj",
+              "RelativeDocumentMoniker": "Client\\Client.csproj",
+              "ToolTip": "F:\\spm-app\\app\\Server\\Socket\\Server\\Client\\Client.csproj",
+              "RelativeToolTip": "Client\\Client.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T08:34:25.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Packet.cs",
+              "DocumentMoniker": "F:\\spm-app\\app\\Server\\Socket\\Server\\ServerCore\\Packet.cs",
+              "RelativeDocumentMoniker": "ServerCore\\Packet.cs",
+              "ToolTip": "F:\\spm-app\\app\\Server\\Socket\\Server\\ServerCore\\Packet.cs",
+              "RelativeToolTip": "ServerCore\\Packet.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T18:21:22.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Data.cs",
+              "DocumentMoniker": "F:\\spm-app\\app\\Server\\Socket\\Server\\ServerCore\\Data.cs",
+              "RelativeDocumentMoniker": "ServerCore\\Data.cs",
+              "ToolTip": "F:\\spm-app\\app\\Server\\Socket\\Server\\ServerCore\\Data.cs",
+              "RelativeToolTip": "ServerCore\\Data.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAkwHcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:45:14.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Server.csproj",
+              "DocumentMoniker": "F:\\spm-app\\app\\Server\\Socket\\Server\\Server\\Server.csproj",
+              "RelativeDocumentMoniker": "Server\\Server.csproj",
+              "ToolTip": "F:\\spm-app\\app\\Server\\Socket\\Server\\Server\\Server.csproj",
+              "RelativeToolTip": "Server\\Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-19T17:52:22.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\spm-app\\app\\Server\\Socket\\Server\\ServerCore\\Program.cs",
+              "RelativeDocumentMoniker": "ServerCore\\Program.cs",
+              "ToolTip": "F:\\spm-app\\app\\Server\\Socket\\Server\\ServerCore\\Program.cs",
+              "RelativeToolTip": "ServerCore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T17:18:30.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Session.cs",
+              "DocumentMoniker": "F:\\spm-app\\app\\Server\\Socket\\Server\\ServerCore\\Session.cs",
+              "RelativeDocumentMoniker": "ServerCore\\Session.cs",
+              "ToolTip": "F:\\spm-app\\app\\Server\\Socket\\Server\\ServerCore\\Session.cs",
+              "RelativeToolTip": "ServerCore\\Session.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAwFwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:55:52.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\spm-app\\app\\Server\\Socket\\Server\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "F:\\spm-app\\app\\Server\\Socket\\Server\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:08:28.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\spm-app\\app\\Server\\Socket\\Server\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "F:\\spm-app\\app\\Server\\Socket\\Server\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:08:19.661Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

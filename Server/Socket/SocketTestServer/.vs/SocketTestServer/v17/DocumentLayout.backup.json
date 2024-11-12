@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity\\Health Care\\Server\\Socket\\SocketTestServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20BF3757-054B-4A3B-9F3E-7D46DEDE083D}|ServerCore\\ServerCore.csproj|e:\\unity\\health care\\server\\socket\\sockettestserver\\servercore\\sendbuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BF3757-054B-4A3B-9F3E-7D46DEDE083D}|ServerCore\\ServerCore.csproj|solutionrelative:servercore\\sendbuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BF3757-054B-4A3B-9F3E-7D46DEDE083D}|ServerCore\\ServerCore.csproj|e:\\unity\\health care\\server\\socket\\sockettestserver\\servercore\\recvbuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BF3757-054B-4A3B-9F3E-7D46DEDE083D}|ServerCore\\ServerCore.csproj|solutionrelative:servercore\\recvbuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BF3757-054B-4A3B-9F3E-7D46DEDE083D}|ServerCore\\ServerCore.csproj|e:\\unity\\health care\\server\\socket\\sockettestserver\\servercore\\connector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BF3757-054B-4A3B-9F3E-7D46DEDE083D}|ServerCore\\ServerCore.csproj|solutionrelative:servercore\\connector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BF3757-054B-4A3B-9F3E-7D46DEDE083D}|ServerCore\\ServerCore.csproj|e:\\unity\\health care\\server\\socket\\sockettestserver\\servercore\\listner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BF3757-054B-4A3B-9F3E-7D46DEDE083D}|ServerCore\\ServerCore.csproj|solutionrelative:servercore\\listner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BF3757-054B-4A3B-9F3E-7D46DEDE083D}|ServerCore\\ServerCore.csproj|e:\\unity\\health care\\server\\socket\\sockettestserver\\servercore\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BF3757-054B-4A3B-9F3E-7D46DEDE083D}|ServerCore\\ServerCore.csproj|solutionrelative:servercore\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E02EE099-8369-41F4-9A02-07CFE9EC53F3}|DummyClient\\DummyClient.csproj|e:\\unity\\health care\\server\\socket\\sockettestserver\\dummyclient\\serversession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E02EE099-8369-41F4-9A02-07CFE9EC53F3}|DummyClient\\DummyClient.csproj|solutionrelative:dummyclient\\serversession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E02EE099-8369-41F4-9A02-07CFE9EC53F3}|DummyClient\\DummyClient.csproj|e:\\unity\\health care\\server\\socket\\sockettestserver\\dummyclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E02EE099-8369-41F4-9A02-07CFE9EC53F3}|DummyClient\\DummyClient.csproj|solutionrelative:dummyclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0BCDFC-C45D-473A-BFB4-1E12EEB18DBF}|Server\\Server.csproj|e:\\unity\\health care\\server\\socket\\sockettestserver\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0BCDFC-C45D-473A-BFB4-1E12EEB18DBF}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0BCDFC-C45D-473A-BFB4-1E12EEB18DBF}|Server\\Server.csproj|e:\\unity\\health care\\server\\socket\\sockettestserver\\server\\clientsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0BCDFC-C45D-473A-BFB4-1E12EEB18DBF}|Server\\Server.csproj|solutionrelative:server\\clientsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0BCDFC-C45D-473A-BFB4-1E12EEB18DBF}|Server\\Server.csproj|e:\\unity\\health care\\server\\socket\\sockettestserver\\server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BF0BCDFC-C45D-473A-BFB4-1E12EEB18DBF}|Server\\Server.csproj|solutionrelative:server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BF3757-054B-4A3B-9F3E-7D46DEDE083D}|ServerCore\\ServerCore.csproj|e:\\unity\\health care\\server\\socket\\sockettestserver\\servercore\\servercore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{20BF3757-054B-4A3B-9F3E-7D46DEDE083D}|ServerCore\\ServerCore.csproj|solutionrelative:servercore\\servercore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BF3757-054B-4A3B-9F3E-7D46DEDE083D}|ServerCore\\ServerCore.csproj|e:\\unity\\health care\\server\\socket\\sockettestserver\\servercore\\servercore.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{20BF3757-054B-4A3B-9F3E-7D46DEDE083D}|ServerCore\\ServerCore.csproj|solutionrelative:servercore\\servercore.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClientSession.cs",
+              "DocumentMoniker": "E:\\Unity\\Health Care\\Server\\Socket\\SocketTestServer\\Server\\ClientSession.cs",
+              "RelativeDocumentMoniker": "Server\\ClientSession.cs",
+              "ToolTip": "E:\\Unity\\Health Care\\Server\\Socket\\SocketTestServer\\Server\\ClientSession.cs",
+              "RelativeToolTip": "Server\\ClientSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T12:10:35.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServerSession.cs",
+              "DocumentMoniker": "E:\\Unity\\Health Care\\Server\\Socket\\SocketTestServer\\DummyClient\\ServerSession.cs",
+              "RelativeDocumentMoniker": "DummyClient\\ServerSession.cs",
+              "ToolTip": "E:\\Unity\\Health Care\\Server\\Socket\\SocketTestServer\\DummyClient\\ServerSession.cs",
+              "RelativeToolTip": "DummyClient\\ServerSession.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T12:09:57.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Server.csproj",
+              "DocumentMoniker": "E:\\Unity\\Health Care\\Server\\Socket\\SocketTestServer\\Server\\Server.csproj",
+              "RelativeDocumentMoniker": "Server\\Server.csproj",
+              "ToolTip": "E:\\Unity\\Health Care\\Server\\Socket\\SocketTestServer\\Server\\Server.csproj",
+              "RelativeToolTip": "Server\\Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-15T09:11:40.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SendBuffer.cs",
+              "DocumentMoniker": "E:\\Unity\\Health Care\\Server\\Socket\\SocketTestServer\\ServerCore\\SendBuffer.cs",
+              "RelativeDocumentMoniker": "ServerCore\\SendBuffer.cs",
+              "ToolTip": "E:\\Unity\\Health Care\\Server\\Socket\\SocketTestServer\\ServerCore\\SendBuffer.cs",
+              "RelativeToolTip": "ServerCore\\SendBuffer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T08:25:38.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecvBuffer.cs",
+              "DocumentMoniker": "E:\\Unity\\Health Care\\Server\\Socket\\SocketTestServer\\ServerCore\\RecvBuffer.cs",
+              "RelativeDocumentMoniker": "ServerCore\\RecvBuffer.cs",
+              "ToolTip": "E:\\Unity\\Health Care\\Server\\Socket\\SocketTestServer\\ServerCore\\RecvBuffer.cs",
+              "RelativeToolTip": "ServerCore\\RecvBuffer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T18:32:22.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Unity\\Health Care\\Server\\Socket\\SocketTestServer\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "E:\\Unity\\Health Care\\Server\\Socket\\SocketTestServer\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T18:11:51.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Connector.cs",
+              "DocumentMoniker": "E:\\Unity\\Health Care\\Server\\Socket\\SocketTestServer\\ServerCore\\Connector.cs",
+              "RelativeDocumentMoniker": "ServerCore\\Connector.cs",
+              "ToolTip": "E:\\Unity\\Health Care\\Server\\Socket\\SocketTestServer\\ServerCore\\Connector.cs",
+              "RelativeToolTip": "ServerCore\\Connector.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T18:00:49.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Session.cs",
+              "DocumentMoniker": "E:\\Unity\\Health Care\\Server\\Socket\\SocketTestServer\\ServerCore\\Session.cs",
+              "RelativeDocumentMoniker": "ServerCore\\Session.cs",
+              "ToolTip": "E:\\Unity\\Health Care\\Server\\Socket\\SocketTestServer\\ServerCore\\Session.cs",
+              "RelativeToolTip": "ServerCore\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T16:23:13.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Listner.cs",
+              "DocumentMoniker": "E:\\Unity\\Health Care\\Server\\Socket\\SocketTestServer\\ServerCore\\Listner.cs",
+              "RelativeDocumentMoniker": "ServerCore\\Listner.cs",
+              "ToolTip": "E:\\Unity\\Health Care\\Server\\Socket\\SocketTestServer\\ServerCore\\Listner.cs",
+              "RelativeToolTip": "ServerCore\\Listner.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T14:55:54.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Unity\\Health Care\\Server\\Socket\\SocketTestServer\\DummyClient\\Program.cs",
+              "RelativeDocumentMoniker": "DummyClient\\Program.cs",
+              "ToolTip": "E:\\Unity\\Health Care\\Server\\Socket\\SocketTestServer\\DummyClient\\Program.cs",
+              "RelativeToolTip": "DummyClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T09:53:45.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServerCore",
+              "DocumentMoniker": "E:\\Unity\\Health Care\\Server\\Socket\\SocketTestServer\\ServerCore\\ServerCore.csproj",
+              "RelativeDocumentMoniker": "ServerCore\\ServerCore.csproj",
+              "ToolTip": "E:\\Unity\\Health Care\\Server\\Socket\\SocketTestServer\\ServerCore\\ServerCore.csproj",
+              "RelativeToolTip": "ServerCore\\ServerCore.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-14T18:10:26.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServerCore.csproj",
+              "DocumentMoniker": "E:\\Unity\\Health Care\\Server\\Socket\\SocketTestServer\\ServerCore\\ServerCore.csproj",
+              "RelativeDocumentMoniker": "ServerCore\\ServerCore.csproj",
+              "ToolTip": "E:\\Unity\\Health Care\\Server\\Socket\\SocketTestServer\\ServerCore\\ServerCore.csproj",
+              "RelativeToolTip": "ServerCore\\ServerCore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-14T18:10:24.155Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

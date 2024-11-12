@@ -1,0 +1,536 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\spm-app\\app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{931036EE-CC9C-8454-A049-58A200A6B1C9}|Assembly-CSharp.csproj|f:\\spm-app\\app\\assets\\scripts\\ui\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{931036EE-CC9C-8454-A049-58A200A6B1C9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{931036EE-CC9C-8454-A049-58A200A6B1C9}|Assembly-CSharp.csproj|F:\\spm-app\\app\\assets\\scripts\\video\\camrecorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{931036EE-CC9C-8454-A049-58A200A6B1C9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\video\\camrecorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{931036EE-CC9C-8454-A049-58A200A6B1C9}|Assembly-CSharp.csproj|F:\\spm-app\\app\\assets\\scripts\\video\\videodataconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{931036EE-CC9C-8454-A049-58A200A6B1C9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\video\\videodataconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{931036EE-CC9C-8454-A049-58A200A6B1C9}|Assembly-CSharp.csproj|F:\\spm-app\\app\\assets\\scripts\\video\\videouproader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{931036EE-CC9C-8454-A049-58A200A6B1C9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\video\\videouproader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{931036EE-CC9C-8454-A049-58A200A6B1C9}|Assembly-CSharp.csproj|F:\\spm-app\\app\\assets\\scripts\\ui\\videoeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{931036EE-CC9C-8454-A049-58A200A6B1C9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\videoeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{931036EE-CC9C-8454-A049-58A200A6B1C9}|Assembly-CSharp.csproj|F:\\spm-app\\app\\assets\\scripts\\network\\socket\\socketservermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{931036EE-CC9C-8454-A049-58A200A6B1C9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\network\\socket\\socketservermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{931036EE-CC9C-8454-A049-58A200A6B1C9}|Assembly-CSharp.csproj|F:\\spm-app\\app\\assets\\scripts\\initializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{931036EE-CC9C-8454-A049-58A200A6B1C9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\initializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{931036EE-CC9C-8454-A049-58A200A6B1C9}|Assembly-CSharp.csproj|F:\\spm-app\\app\\assets\\scripts\\ui\\idpwinputfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{931036EE-CC9C-8454-A049-58A200A6B1C9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\idpwinputfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{931036EE-CC9C-8454-A049-58A200A6B1C9}|Assembly-CSharp.csproj|F:\\spm-app\\app\\assets\\scripts\\ui\\alertui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{931036EE-CC9C-8454-A049-58A200A6B1C9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\alertui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{931036EE-CC9C-8454-A049-58A200A6B1C9}|Assembly-CSharp.csproj|F:\\spm-app\\app\\assets\\mediapipeunity\\samples\\common\\scripts\\imagesource\\imagesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{931036EE-CC9C-8454-A049-58A200A6B1C9}|Assembly-CSharp.csproj|solutionrelative:assets\\mediapipeunity\\samples\\common\\scripts\\imagesource\\imagesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{931036EE-CC9C-8454-A049-58A200A6B1C9}|Assembly-CSharp.csproj|F:\\spm-app\\app\\assets\\scripts\\network\\socket\\servercore\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{931036EE-CC9C-8454-A049-58A200A6B1C9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\network\\socket\\servercore\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{931036EE-CC9C-8454-A049-58A200A6B1C9}|Assembly-CSharp.csproj|F:\\spm-app\\app\\assets\\scripts\\ui\\exerciseselectbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{931036EE-CC9C-8454-A049-58A200A6B1C9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\exerciseselectbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{931036EE-CC9C-8454-A049-58A200A6B1C9}|Assembly-CSharp.csproj|F:\\spm-app\\app\\assets\\scripts\\ui\\loadingui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{931036EE-CC9C-8454-A049-58A200A6B1C9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\loadingui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{931036EE-CC9C-8454-A049-58A200A6B1C9}|Assembly-CSharp.csproj|F:\\spm-app\\app\\assets\\scripts\\video\\exercisedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{931036EE-CC9C-8454-A049-58A200A6B1C9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\video\\exercisedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{931036EE-CC9C-8454-A049-58A200A6B1C9}|Assembly-CSharp.csproj|F:\\spm-app\\app\\assets\\scripts\\network\\socket\\servercore\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{931036EE-CC9C-8454-A049-58A200A6B1C9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\network\\socket\\servercore\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{931036EE-CC9C-8454-A049-58A200A6B1C9}|Assembly-CSharp.csproj|F:\\spm-app\\app\\assets\\scripts\\network\\web\\webservermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{931036EE-CC9C-8454-A049-58A200A6B1C9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\network\\web\\webservermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA1320D-C1D6-441F-F622-BDECBF4E3211}|Mediapipe.Runtime.csproj|F:\\spm-app\\app\\packages\\com.github.homuler.mediapipe\\runtime\\scripts\\util\\resourceutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA1320D-C1D6-441F-F622-BDECBF4E3211}|Mediapipe.Runtime.csproj|solutionrelative:packages\\com.github.homuler.mediapipe\\runtime\\scripts\\util\\resourceutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{931036EE-CC9C-8454-A049-58A200A6B1C9}|Assembly-CSharp.csproj|F:\\spm-app\\app\\assets\\mediapipeunity\\samples\\common\\scripts\\visiontaskapirunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{931036EE-CC9C-8454-A049-58A200A6B1C9}|Assembly-CSharp.csproj|solutionrelative:assets\\mediapipeunity\\samples\\common\\scripts\\visiontaskapirunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{931036EE-CC9C-8454-A049-58A200A6B1C9}|Assembly-CSharp.csproj|F:\\spm-app\\app\\assets\\mediapipeunity\\samples\\common\\scripts\\taskapirunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{931036EE-CC9C-8454-A049-58A200A6B1C9}|Assembly-CSharp.csproj|solutionrelative:assets\\mediapipeunity\\samples\\common\\scripts\\taskapirunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA1320D-C1D6-441F-F622-BDECBF4E3211}|Mediapipe.Runtime.csproj|F:\\spm-app\\app\\packages\\com.github.homuler.mediapipe\\runtime\\scripts\\unity\\annotation\\multiposelandmarklistwithmaskannotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA1320D-C1D6-441F-F622-BDECBF4E3211}|Mediapipe.Runtime.csproj|solutionrelative:packages\\com.github.homuler.mediapipe\\runtime\\scripts\\unity\\annotation\\multiposelandmarklistwithmaskannotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA1320D-C1D6-441F-F622-BDECBF4E3211}|Mediapipe.Runtime.csproj|F:\\spm-app\\app\\packages\\com.github.homuler.mediapipe\\runtime\\scripts\\unity\\annotation\\poselandmarkerresultannotationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA1320D-C1D6-441F-F622-BDECBF4E3211}|Mediapipe.Runtime.csproj|solutionrelative:packages\\com.github.homuler.mediapipe\\runtime\\scripts\\unity\\annotation\\poselandmarkerresultannotationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA1320D-C1D6-441F-F622-BDECBF4E3211}|Mediapipe.Runtime.csproj|F:\\spm-app\\app\\packages\\com.github.homuler.mediapipe\\runtime\\scripts\\tasks\\vision\\poselandmarker\\poselandmarker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA1320D-C1D6-441F-F622-BDECBF4E3211}|Mediapipe.Runtime.csproj|solutionrelative:packages\\com.github.homuler.mediapipe\\runtime\\scripts\\tasks\\vision\\poselandmarker\\poselandmarker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA1320D-C1D6-441F-F622-BDECBF4E3211}|Mediapipe.Runtime.csproj|F:\\spm-app\\app\\packages\\com.github.homuler.mediapipe\\runtime\\scripts\\tasks\\vision\\core\\basevisiontaskapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA1320D-C1D6-441F-F622-BDECBF4E3211}|Mediapipe.Runtime.csproj|solutionrelative:packages\\com.github.homuler.mediapipe\\runtime\\scripts\\tasks\\vision\\core\\basevisiontaskapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA1320D-C1D6-441F-F622-BDECBF4E3211}|Mediapipe.Runtime.csproj|F:\\spm-app\\app\\packages\\com.github.homuler.mediapipe\\runtime\\scripts\\tasks\\core\\taskrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA1320D-C1D6-441F-F622-BDECBF4E3211}|Mediapipe.Runtime.csproj|solutionrelative:packages\\com.github.homuler.mediapipe\\runtime\\scripts\\tasks\\core\\taskrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA1320D-C1D6-441F-F622-BDECBF4E3211}|Mediapipe.Runtime.csproj|F:\\spm-app\\app\\packages\\com.github.homuler.mediapipe\\runtime\\scripts\\framework\\port\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA1320D-C1D6-441F-F622-BDECBF4E3211}|Mediapipe.Runtime.csproj|solutionrelative:packages\\com.github.homuler.mediapipe\\runtime\\scripts\\framework\\port\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA1320D-C1D6-441F-F622-BDECBF4E3211}|Mediapipe.Runtime.csproj|F:\\spm-app\\app\\packages\\com.github.homuler.mediapipe\\runtime\\scripts\\core\\mpresourcehandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA1320D-C1D6-441F-F622-BDECBF4E3211}|Mediapipe.Runtime.csproj|solutionrelative:packages\\com.github.homuler.mediapipe\\runtime\\scripts\\core\\mpresourcehandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{931036EE-CC9C-8454-A049-58A200A6B1C9}|Assembly-CSharp.csproj|F:\\spm-app\\app\\assets\\mediapipeunity\\samples\\common\\scripts\\screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{931036EE-CC9C-8454-A049-58A200A6B1C9}|Assembly-CSharp.csproj|solutionrelative:assets\\mediapipeunity\\samples\\common\\scripts\\screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA1320D-C1D6-441F-F622-BDECBF4E3211}|Mediapipe.Runtime.csproj|F:\\spm-app\\app\\packages\\com.github.homuler.mediapipe\\runtime\\scripts\\core\\badstatusexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA1320D-C1D6-441F-F622-BDECBF4E3211}|Mediapipe.Runtime.csproj|solutionrelative:packages\\com.github.homuler.mediapipe\\runtime\\scripts\\core\\badstatusexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA55A5F-0948-E584-63EE-251111B3BB03}|NativeFilePicker.Runtime.csproj|F:\\spm-app\\app\\assets\\plugins\\nativefilepicker\\android\\fpcallbackhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA55A5F-0948-E584-63EE-251111B3BB03}|NativeFilePicker.Runtime.csproj|solutionrelative:assets\\plugins\\nativefilepicker\\android\\fpcallbackhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA55A5F-0948-E584-63EE-251111B3BB03}|NativeFilePicker.Runtime.csproj|F:\\spm-app\\app\\assets\\plugins\\nativefilepicker\\nativefilepicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA55A5F-0948-E584-63EE-251111B3BB03}|NativeFilePicker.Runtime.csproj|solutionrelative:assets\\plugins\\nativefilepicker\\nativefilepicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA1320D-C1D6-441F-F622-BDECBF4E3211}|Mediapipe.Runtime.csproj|F:\\spm-app\\app\\packages\\com.github.homuler.mediapipe\\runtime\\scripts\\core\\disposableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA1320D-C1D6-441F-F622-BDECBF4E3211}|Mediapipe.Runtime.csproj|solutionrelative:packages\\com.github.homuler.mediapipe\\runtime\\scripts\\core\\disposableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{931036EE-CC9C-8454-A049-58A200A6B1C9}|Assembly-CSharp.csproj|F:\\spm-app\\app\\Assets\\MediaPipeUnity\\Samples\\Scenes\\Pose Landmark Detection\\PoseLandmarkDetectionConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{931036EE-CC9C-8454-A049-58A200A6B1C9}|Assembly-CSharp.csproj|solutionrelative:Assets\\MediaPipeUnity\\Samples\\Scenes\\Pose Landmark Detection\\PoseLandmarkDetectionConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UIController.cs",
+              "DocumentMoniker": "F:\\spm-app\\app\\Assets\\Scripts\\UI\\UIController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIController.cs",
+              "ToolTip": "F:\\spm-app\\app\\Assets\\Scripts\\UI\\UIController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIController.cs",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAkwNsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:17:46.5Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VideoDataConverter.cs",
+              "DocumentMoniker": "F:\\spm-app\\app\\Assets\\Scripts\\Video\\VideoDataConverter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Video\\VideoDataConverter.cs",
+              "ToolTip": "F:\\spm-app\\app\\Assets\\Scripts\\Video\\VideoDataConverter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Video\\VideoDataConverter.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAuwIAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:55:29.589Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CamRecorder.cs",
+              "DocumentMoniker": "F:\\spm-app\\app\\Assets\\Scripts\\Video\\CamRecorder.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Video\\CamRecorder.cs",
+              "ToolTip": "F:\\spm-app\\app\\Assets\\Scripts\\Video\\CamRecorder.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Video\\CamRecorder.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAMwHAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:42:12.789Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VideoEditor.cs",
+              "DocumentMoniker": "F:\\spm-app\\app\\Assets\\Scripts\\UI\\VideoEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\VideoEditor.cs",
+              "ToolTip": "F:\\spm-app\\app\\Assets\\Scripts\\UI\\VideoEditor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\VideoEditor.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAYwFcAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:02:52.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VideoUproader.cs",
+              "DocumentMoniker": "F:\\spm-app\\app\\Assets\\Scripts\\Video\\VideoUproader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Video\\VideoUproader.cs",
+              "ToolTip": "F:\\spm-app\\app\\Assets\\Scripts\\Video\\VideoUproader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Video\\VideoUproader.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAawJEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:59:13.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDPWInputField.cs",
+              "DocumentMoniker": "F:\\spm-app\\app\\Assets\\Scripts\\UI\\IDPWInputField.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\IDPWInputField.cs",
+              "ToolTip": "F:\\spm-app\\app\\Assets\\Scripts\\UI\\IDPWInputField.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\IDPWInputField.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T17:26:44.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Initializer.cs",
+              "DocumentMoniker": "F:\\spm-app\\app\\Assets\\Scripts\\Initializer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Initializer.cs",
+              "ToolTip": "F:\\spm-app\\app\\Assets\\Scripts\\Initializer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Initializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T12:51:09.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SocketServerManager.cs",
+              "DocumentMoniker": "F:\\spm-app\\app\\Assets\\Scripts\\Network\\Socket\\SocketServerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Network\\Socket\\SocketServerManager.cs",
+              "ToolTip": "F:\\spm-app\\app\\Assets\\Scripts\\Network\\Socket\\SocketServerManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Network\\Socket\\SocketServerManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:38:47.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Session.cs",
+              "DocumentMoniker": "F:\\spm-app\\app\\Assets\\Scripts\\Network\\Socket\\ServerCore\\Session.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Network\\Socket\\ServerCore\\Session.cs",
+              "ToolTip": "F:\\spm-app\\app\\Assets\\Scripts\\Network\\Socket\\ServerCore\\Session.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Network\\Socket\\ServerCore\\Session.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwFIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:21:38.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ImageSource.cs",
+              "DocumentMoniker": "F:\\spm-app\\app\\Assets\\MediaPipeUnity\\Samples\\Common\\Scripts\\ImageSource\\ImageSource.cs",
+              "RelativeDocumentMoniker": "Assets\\MediaPipeUnity\\Samples\\Common\\Scripts\\ImageSource\\ImageSource.cs",
+              "ToolTip": "F:\\spm-app\\app\\Assets\\MediaPipeUnity\\Samples\\Common\\Scripts\\ImageSource\\ImageSource.cs",
+              "RelativeToolTip": "Assets\\MediaPipeUnity\\Samples\\Common\\Scripts\\ImageSource\\ImageSource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvyEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T15:37:02.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AlertUI.cs",
+              "DocumentMoniker": "F:\\spm-app\\app\\Assets\\Scripts\\UI\\AlertUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\AlertUI.cs",
+              "ToolTip": "F:\\spm-app\\app\\Assets\\Scripts\\UI\\AlertUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\AlertUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T06:56:56.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExerciseSelectButton.cs",
+              "DocumentMoniker": "F:\\spm-app\\app\\Assets\\Scripts\\UI\\ExerciseSelectButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ExerciseSelectButton.cs",
+              "ToolTip": "F:\\spm-app\\app\\Assets\\Scripts\\UI\\ExerciseSelectButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\ExerciseSelectButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T08:09:38.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoadingUI.cs",
+              "DocumentMoniker": "F:\\spm-app\\app\\Assets\\Scripts\\UI\\LoadingUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\LoadingUI.cs",
+              "ToolTip": "F:\\spm-app\\app\\Assets\\Scripts\\UI\\LoadingUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\LoadingUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T05:44:06.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExerciseData.cs",
+              "DocumentMoniker": "F:\\spm-app\\app\\Assets\\Scripts\\Video\\ExerciseData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Video\\ExerciseData.cs",
+              "ToolTip": "F:\\spm-app\\app\\Assets\\Scripts\\Video\\ExerciseData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Video\\ExerciseData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T11:47:11.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Packet.cs",
+              "DocumentMoniker": "F:\\spm-app\\app\\Assets\\Scripts\\Network\\Socket\\ServerCore\\Packet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Network\\Socket\\ServerCore\\Packet.cs",
+              "ToolTip": "F:\\spm-app\\app\\Assets\\Scripts\\Network\\Socket\\ServerCore\\Packet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Network\\Socket\\ServerCore\\Packet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:20:46.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WebServerManager.cs",
+              "DocumentMoniker": "F:\\spm-app\\app\\Assets\\Scripts\\Network\\Web\\WebServerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Network\\Web\\WebServerManager.cs",
+              "ToolTip": "F:\\spm-app\\app\\Assets\\Scripts\\Network\\Web\\WebServerManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Network\\Web\\WebServerManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:38:45.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ResourceUtil.cs",
+              "DocumentMoniker": "F:\\spm-app\\app\\Packages\\com.github.homuler.mediapipe\\Runtime\\Scripts\\Util\\ResourceUtil.cs",
+              "RelativeDocumentMoniker": "Packages\\com.github.homuler.mediapipe\\Runtime\\Scripts\\Util\\ResourceUtil.cs",
+              "ToolTip": "F:\\spm-app\\app\\Packages\\com.github.homuler.mediapipe\\Runtime\\Scripts\\Util\\ResourceUtil.cs",
+              "RelativeToolTip": "Packages\\com.github.homuler.mediapipe\\Runtime\\Scripts\\Util\\ResourceUtil.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAUwFYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T15:19:45.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VisionTaskApiRunner.cs",
+              "DocumentMoniker": "F:\\spm-app\\app\\Assets\\MediaPipeUnity\\Samples\\Common\\Scripts\\VisionTaskApiRunner.cs",
+              "RelativeDocumentMoniker": "Assets\\MediaPipeUnity\\Samples\\Common\\Scripts\\VisionTaskApiRunner.cs",
+              "ToolTip": "F:\\spm-app\\app\\Assets\\MediaPipeUnity\\Samples\\Common\\Scripts\\VisionTaskApiRunner.cs",
+              "RelativeToolTip": "Assets\\MediaPipeUnity\\Samples\\Common\\Scripts\\VisionTaskApiRunner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T18:24:43.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MultiPoseLandmarkListWithMaskAnnotation.cs",
+              "DocumentMoniker": "F:\\spm-app\\app\\Packages\\com.github.homuler.mediapipe\\Runtime\\Scripts\\Unity\\Annotation\\MultiPoseLandmarkListWithMaskAnnotation.cs",
+              "RelativeDocumentMoniker": "Packages\\com.github.homuler.mediapipe\\Runtime\\Scripts\\Unity\\Annotation\\MultiPoseLandmarkListWithMaskAnnotation.cs",
+              "ToolTip": "F:\\spm-app\\app\\Packages\\com.github.homuler.mediapipe\\Runtime\\Scripts\\Unity\\Annotation\\MultiPoseLandmarkListWithMaskAnnotation.cs",
+              "RelativeToolTip": "Packages\\com.github.homuler.mediapipe\\Runtime\\Scripts\\Unity\\Annotation\\MultiPoseLandmarkListWithMaskAnnotation.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAlwGkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T05:46:00.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PoseLandmarkerResultAnnotationController.cs",
+              "DocumentMoniker": "F:\\spm-app\\app\\Packages\\com.github.homuler.mediapipe\\Runtime\\Scripts\\Unity\\Annotation\\PoseLandmarkerResultAnnotationController.cs",
+              "RelativeDocumentMoniker": "Packages\\com.github.homuler.mediapipe\\Runtime\\Scripts\\Unity\\Annotation\\PoseLandmarkerResultAnnotationController.cs",
+              "ToolTip": "F:\\spm-app\\app\\Packages\\com.github.homuler.mediapipe\\Runtime\\Scripts\\Unity\\Annotation\\PoseLandmarkerResultAnnotationController.cs",
+              "RelativeToolTip": "Packages\\com.github.homuler.mediapipe\\Runtime\\Scripts\\Unity\\Annotation\\PoseLandmarkerResultAnnotationController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAEwDYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T05:45:46.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TaskApiRunner.cs",
+              "DocumentMoniker": "F:\\spm-app\\app\\Assets\\MediaPipeUnity\\Samples\\Common\\Scripts\\TaskApiRunner.cs",
+              "RelativeDocumentMoniker": "Assets\\MediaPipeUnity\\Samples\\Common\\Scripts\\TaskApiRunner.cs",
+              "ToolTip": "F:\\spm-app\\app\\Assets\\MediaPipeUnity\\Samples\\Common\\Scripts\\TaskApiRunner.cs",
+              "RelativeToolTip": "Assets\\MediaPipeUnity\\Samples\\Common\\Scripts\\TaskApiRunner.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowCMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T18:24:49.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PoseLandmarkDetectionConfig.cs",
+              "DocumentMoniker": "F:\\spm-app\\app\\Assets\\MediaPipeUnity\\Samples\\Scenes\\Pose Landmark Detection\\PoseLandmarkDetectionConfig.cs",
+              "RelativeDocumentMoniker": "Assets\\MediaPipeUnity\\Samples\\Scenes\\Pose Landmark Detection\\PoseLandmarkDetectionConfig.cs",
+              "ToolTip": "F:\\spm-app\\app\\Assets\\MediaPipeUnity\\Samples\\Scenes\\Pose Landmark Detection\\PoseLandmarkDetectionConfig.cs",
+              "RelativeToolTip": "Assets\\MediaPipeUnity\\Samples\\Scenes\\Pose Landmark Detection\\PoseLandmarkDetectionConfig.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA6wDAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T09:04:54.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BaseVisionTaskApi.cs",
+              "DocumentMoniker": "F:\\spm-app\\app\\Packages\\com.github.homuler.mediapipe\\Runtime\\Scripts\\Tasks\\Vision\\Core\\BaseVisionTaskApi.cs",
+              "RelativeDocumentMoniker": "Packages\\com.github.homuler.mediapipe\\Runtime\\Scripts\\Tasks\\Vision\\Core\\BaseVisionTaskApi.cs",
+              "ToolTip": "F:\\spm-app\\app\\Packages\\com.github.homuler.mediapipe\\Runtime\\Scripts\\Tasks\\Vision\\Core\\BaseVisionTaskApi.cs",
+              "RelativeToolTip": "Packages\\com.github.homuler.mediapipe\\Runtime\\Scripts\\Tasks\\Vision\\Core\\BaseVisionTaskApi.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAtwD4AAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T08:40:06.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PoseLandmarker.cs",
+              "DocumentMoniker": "F:\\spm-app\\app\\Packages\\com.github.homuler.mediapipe\\Runtime\\Scripts\\Tasks\\Vision\\PoseLandmarker\\PoseLandmarker.cs",
+              "RelativeDocumentMoniker": "Packages\\com.github.homuler.mediapipe\\Runtime\\Scripts\\Tasks\\Vision\\PoseLandmarker\\PoseLandmarker.cs",
+              "ToolTip": "F:\\spm-app\\app\\Packages\\com.github.homuler.mediapipe\\Runtime\\Scripts\\Tasks\\Vision\\PoseLandmarker\\PoseLandmarker.cs",
+              "RelativeToolTip": "Packages\\com.github.homuler.mediapipe\\Runtime\\Scripts\\Tasks\\Vision\\PoseLandmarker\\PoseLandmarker.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAADgv2IAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T08:57:24.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TaskRunner.cs",
+              "DocumentMoniker": "F:\\spm-app\\app\\Packages\\com.github.homuler.mediapipe\\Runtime\\Scripts\\Tasks\\Core\\TaskRunner.cs",
+              "RelativeDocumentMoniker": "Packages\\com.github.homuler.mediapipe\\Runtime\\Scripts\\Tasks\\Core\\TaskRunner.cs",
+              "ToolTip": "F:\\spm-app\\app\\Packages\\com.github.homuler.mediapipe\\Runtime\\Scripts\\Tasks\\Core\\TaskRunner.cs",
+              "RelativeToolTip": "Packages\\com.github.homuler.mediapipe\\Runtime\\Scripts\\Tasks\\Core\\TaskRunner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T08:48:28.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MpResourceHandle.cs",
+              "DocumentMoniker": "F:\\spm-app\\app\\Packages\\com.github.homuler.mediapipe\\Runtime\\Scripts\\Core\\MpResourceHandle.cs",
+              "RelativeDocumentMoniker": "Packages\\com.github.homuler.mediapipe\\Runtime\\Scripts\\Core\\MpResourceHandle.cs",
+              "ToolTip": "F:\\spm-app\\app\\Packages\\com.github.homuler.mediapipe\\Runtime\\Scripts\\Core\\MpResourceHandle.cs",
+              "RelativeToolTip": "Packages\\com.github.homuler.mediapipe\\Runtime\\Scripts\\Core\\MpResourceHandle.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAEwHIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T08:48:26.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Status.cs",
+              "DocumentMoniker": "F:\\spm-app\\app\\Packages\\com.github.homuler.mediapipe\\Runtime\\Scripts\\Framework\\Port\\Status.cs",
+              "RelativeDocumentMoniker": "Packages\\com.github.homuler.mediapipe\\Runtime\\Scripts\\Framework\\Port\\Status.cs",
+              "ToolTip": "F:\\spm-app\\app\\Packages\\com.github.homuler.mediapipe\\Runtime\\Scripts\\Framework\\Port\\Status.cs",
+              "RelativeToolTip": "Packages\\com.github.homuler.mediapipe\\Runtime\\Scripts\\Framework\\Port\\Status.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAqwKcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T15:36:28.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Screen.cs",
+              "DocumentMoniker": "F:\\spm-app\\app\\Assets\\MediaPipeUnity\\Samples\\Common\\Scripts\\Screen.cs",
+              "RelativeDocumentMoniker": "Assets\\MediaPipeUnity\\Samples\\Common\\Scripts\\Screen.cs",
+              "ToolTip": "F:\\spm-app\\app\\Assets\\MediaPipeUnity\\Samples\\Common\\Scripts\\Screen.cs",
+              "RelativeToolTip": "Assets\\MediaPipeUnity\\Samples\\Common\\Scripts\\Screen.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T05:46:13.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BadStatusException.cs",
+              "DocumentMoniker": "F:\\spm-app\\app\\Packages\\com.github.homuler.mediapipe\\Runtime\\Scripts\\Core\\BadStatusException.cs",
+              "RelativeDocumentMoniker": "Packages\\com.github.homuler.mediapipe\\Runtime\\Scripts\\Core\\BadStatusException.cs",
+              "ToolTip": "F:\\spm-app\\app\\Packages\\com.github.homuler.mediapipe\\Runtime\\Scripts\\Core\\BadStatusException.cs",
+              "RelativeToolTip": "Packages\\com.github.homuler.mediapipe\\Runtime\\Scripts\\Core\\BadStatusException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:51:35.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FPCallbackHelper.cs",
+              "DocumentMoniker": "F:\\spm-app\\app\\Assets\\Plugins\\NativeFilePicker\\Android\\FPCallbackHelper.cs",
+              "RelativeDocumentMoniker": "Assets\\Plugins\\NativeFilePicker\\Android\\FPCallbackHelper.cs",
+              "ToolTip": "F:\\spm-app\\app\\Assets\\Plugins\\NativeFilePicker\\Android\\FPCallbackHelper.cs",
+              "RelativeToolTip": "Assets\\Plugins\\NativeFilePicker\\Android\\FPCallbackHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:26:14.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "NativeFilePicker.cs",
+              "DocumentMoniker": "F:\\spm-app\\app\\Assets\\Plugins\\NativeFilePicker\\NativeFilePicker.cs",
+              "RelativeDocumentMoniker": "Assets\\Plugins\\NativeFilePicker\\NativeFilePicker.cs",
+              "ToolTip": "F:\\spm-app\\app\\Assets\\Plugins\\NativeFilePicker\\NativeFilePicker.cs",
+              "RelativeToolTip": "Assets\\Plugins\\NativeFilePicker\\NativeFilePicker.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:26:21.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DisposableObject.cs",
+              "DocumentMoniker": "F:\\spm-app\\app\\Packages\\com.github.homuler.mediapipe\\Runtime\\Scripts\\Core\\DisposableObject.cs",
+              "RelativeDocumentMoniker": "Packages\\com.github.homuler.mediapipe\\Runtime\\Scripts\\Core\\DisposableObject.cs",
+              "ToolTip": "F:\\spm-app\\app\\Packages\\com.github.homuler.mediapipe\\Runtime\\Scripts\\Core\\DisposableObject.cs",
+              "RelativeToolTip": "Packages\\com.github.homuler.mediapipe\\Runtime\\Scripts\\Core\\DisposableObject.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAmwF0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:53:15.551Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

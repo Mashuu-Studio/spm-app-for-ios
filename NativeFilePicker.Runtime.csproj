@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{8FA55A5F-0948-E584-63EE-251111B3BB03}</ProjectGuid>
+    <ProjectGuid>{CF378AE0-A61F-62FD-7067-EA5FBAD7F84F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>NativeFilePicker.Runtime</AssemblyName>

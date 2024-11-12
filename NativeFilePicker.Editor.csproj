@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{EA4A382E-5779-E7FD-2F2E-BDD097C934A0}</ProjectGuid>
+    <ProjectGuid>{E35DF3B4-B093-8D87-2E65-AF39DD6F8332}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>NativeFilePicker.Editor</AssemblyName>

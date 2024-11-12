@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity\\Health Care\\Server\\TestWebServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D819322-3E9E-4BD0-B485-156EA5FC0DC7}|TestWebServer.csproj|e:\\unity\\health care\\server\\testwebserver\\servercore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D819322-3E9E-4BD0-B485-156EA5FC0DC7}|TestWebServer.csproj|solutionrelative:servercore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D819322-3E9E-4BD0-B485-156EA5FC0DC7}|TestWebServer.csproj|e:\\unity\\health care\\server\\testwebserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D819322-3E9E-4BD0-B485-156EA5FC0DC7}|TestWebServer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D819322-3E9E-4BD0-B485-156EA5FC0DC7}|TestWebServer.csproj|e:\\unity\\health care\\server\\testwebserver\\testwebserver.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6D819322-3E9E-4BD0-B485-156EA5FC0DC7}|TestWebServer.csproj|solutionrelative:testwebserver.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServerCore.cs",
+              "DocumentMoniker": "E:\\Unity\\Health Care\\Server\\TestWebServer\\ServerCore.cs",
+              "RelativeDocumentMoniker": "ServerCore.cs",
+              "ToolTip": "E:\\Unity\\Health Care\\Server\\TestWebServer\\ServerCore.cs",
+              "RelativeToolTip": "ServerCore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T17:53:58.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestWebServer",
+              "DocumentMoniker": "E:\\Unity\\Health Care\\Server\\TestWebServer\\TestWebServer.csproj",
+              "RelativeDocumentMoniker": "TestWebServer.csproj",
+              "ToolTip": "E:\\Unity\\Health Care\\Server\\TestWebServer\\TestWebServer.csproj",
+              "RelativeToolTip": "TestWebServer.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-22T17:49:25.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Unity\\Health Care\\Server\\TestWebServer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Unity\\Health Care\\Server\\TestWebServer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T17:41:23.98Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
