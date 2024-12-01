@@ -58,7 +58,7 @@ public class VideoUproader : MonoBehaviour
     public void SelectVideo(string obj = "")
     {
         // 기존 비디오 정보 삭제
-        videoPlayer.url = "";
+        videoPlayer.url = "";/*
         NativeFilePicker.Permission permission = NativeFilePicker.PickFile(path =>
         {
             // File Not Selected
@@ -69,7 +69,7 @@ public class VideoUproader : MonoBehaviour
             videoPlayer.enabled = true;
             videoPlayer.url = path;
             PrepareVideo();
-        }, new string[] { "video/*" });
+        }, new string[] { "video/*" });*/
     }
 
     private void PrepareVideo()
