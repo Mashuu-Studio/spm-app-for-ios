@@ -4,6 +4,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Runtime.InteropServices;
 using System.Text;
+using System.Threading.Tasks;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
@@ -22,7 +23,12 @@ public class UIController : MonoBehaviour
         }
         instance = this;
         DontDestroyOnLoad(gameObject);
+    }
+
+    private void Start()
+    {
         // EndLoading();
+        organizationList.Init();
         CloseAlert();
         ChangeScene(SceneName.START);
 
@@ -65,7 +71,8 @@ public class UIController : MonoBehaviour
     public void CloseAlert()
     {
         alertUI.gameObject.SetActive(false);
-        findOrganization.SetActive(false);
+        organizationList.SetActive(false);
+        genderPopup.SetActive(false);
         successSignup.SetActive(false);
         continueMeasure.SetActive(false);
         recordingPopup.SetActive(false);
@@ -178,42 +185,36 @@ public class UIController : MonoBehaviour
         ChangeScene(SceneName.LOGIN);
     }
 
+    #region SignUp
+    [Space]
+    [SerializeField] private SignUpUI signUpUI;
+    [SerializeField] private OrganizationListUI organizationList;
+    [SerializeField] private GameObject genderPopup;
+    [SerializeField] private GameObject successSignup;
     public void GoToSignUp()
     {
         ChangeScene(SceneName.SIGN_UP);
+        ((RectTransform)signUpUI.transform).anchoredPosition = Vector2.zero;
     }
 
-    public void GoToHome()
-    {
-        ChangeScene(SceneName.HOME);
-    }
-
-    #region SignUp
-    [Space]
-    [SerializeField] private GameObject findOrganization;
-    [SerializeField] private GameObject successSignup;
     public async void SignUp()
     {
-        // 결과에 따라서 Callback
-        if (true)
+        var result = await WebServerManager.Instance.SignUp(signUpUI.SignUpInfo);
+
+        if (result)
         {
             successSignup.SetActive(true);
-            //Alert("Sign Up Complete");
-        }/*
+        }
         else
         {
             Alert("회원가입", "회원가입에 실패하였습니다.\n관리자에게 문의하세요.");
-        }*/
+        }
     }
 
-    public void FindOrganization()
+    public async void CheckID()
     {
-        findOrganization.SetActive(true);
-    }
-
-    public void CheckID()
-    {
-        if (true)
+        var duplicate = await WebServerManager.Instance.CheckIDDuplication(signUpUI.Id);
+        if (duplicate == false)
         {
             Alert("중복 확인", "사용할 수 있는 아이디 입니다");
         }
@@ -222,26 +223,45 @@ public class UIController : MonoBehaviour
             Alert("중복 확인", "이미 사용중인 아이디 입니다");
         }
     }
+
+    public void FindOrganization()
+    {
+        organizationList.SetActive(true);
+    }
+
+    public void SelectGender(string gender)
+    {
+        signUpUI.SelectGender(gender);
+    }
+
+    public void SelectOrganization(string name, int id)
+    {
+        signUpUI.SelectOrganization(name, id);
+    }
     #endregion
+
+    #region Sign In
+    private bool waitLogin;
     public async void SignIn()
     {
-        Alert("로그인", "존재하지 않는 계정이거나\n아이디 혹은 비밀번호가 일치하지 않습니다");
-        //WebServerManager.Instance.SignIn(loginUI.Email, loginUI.Password);
-        // 결과에 따라서 Callback
-        if (true)
+        if (waitLogin) return;
+
+        waitLogin = true;
+        var result = await WebServerManager.Instance.SignIn(loginUI.Id, loginUI.Password);
+        if (result)
         {
             GoToHome();
-            //Alert("Login Complete");
-        }/*
+        }
         else
         {
             Alert("로그인", "존재하지 않는 계정이거나\n아이디 혹은 비밀번호가 일치하지 않습니다");
-        }*/
+        }
+        waitLogin = false;
     }
 
     public void SignOut()
     {
-        //FirebaseAuthManager.Instance.SignOut();
+        WebServerManager.Instance.SignOut();
         ChangeScene(SceneName.LOGIN);
     }
 
@@ -251,14 +271,39 @@ public class UIController : MonoBehaviour
     }
     #endregion
 
+    #region Info
+    [Space]
+    [SerializeField] private TextMeshProUGUI userInfoUserNameText;
+    [SerializeField] private TextMeshProUGUI userInfoNameText;
+    [SerializeField] private TextMeshProUGUI userInfoOrganizationText;
+
+    public async void GoToHome()
+    {
+        await SetInfo();
+        ChangeScene(SceneName.HOME);
+    }
+
+    public async Task SetInfo()
+    {
+        var info = await WebServerManager.Instance.GetUserInfo();
+        userInfoUserNameText.text = info.userName;
+        userInfoNameText.text = info.name;
+        userInfoOrganizationText.text = organizationList.GetOrganizationName(info.orgId);
+    }
+    #endregion
+    #endregion
+
     #region Log
     [Header("Log")]
 
+    [SerializeField] private MeasureHistoryUI measureHistoryUI;
     [SerializeField] private GameObject continueMeasure;
-    public void GoToLog()
+    public async void GoToLog()
     {
+        await measureHistoryUI.SetHistory();
         ChangeScene(SceneName.LOG);
     }
+
     #endregion
 
     #region Video
@@ -390,6 +435,14 @@ public class UIController : MonoBehaviour
     #endregion
 
     #region Result
+    [SerializeField] private MeasureResultUI measureResultUI;
+
+    public void ViewLog(WebServerManager.MeasureResult result)
+    {
+        measureResultUI.SetResult(result);
+        GoToResult();
+    }
+
     public void GoToResult()
     {
         ChangeScene(SceneName.RESULT);

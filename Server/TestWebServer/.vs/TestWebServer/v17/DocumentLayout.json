@@ -1,18 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Unity\\Health Care\\Server\\TestWebServer\\",
+  "WorkspaceRootPath": "F:\\spm-app\\app\\Server\\TestWebServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D819322-3E9E-4BD0-B485-156EA5FC0DC7}|TestWebServer.csproj|e:\\unity\\health care\\server\\testwebserver\\servercore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D819322-3E9E-4BD0-B485-156EA5FC0DC7}|TestWebServer.csproj|f:\\spm-app\\app\\server\\testwebserver\\servercore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D819322-3E9E-4BD0-B485-156EA5FC0DC7}|TestWebServer.csproj|solutionrelative:servercore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D819322-3E9E-4BD0-B485-156EA5FC0DC7}|TestWebServer.csproj|e:\\unity\\health care\\server\\testwebserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D819322-3E9E-4BD0-B485-156EA5FC0DC7}|TestWebServer.csproj|f:\\spm-app\\app\\server\\testwebserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D819322-3E9E-4BD0-B485-156EA5FC0DC7}|TestWebServer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D819322-3E9E-4BD0-B485-156EA5FC0DC7}|TestWebServer.csproj|e:\\unity\\health care\\server\\testwebserver\\testwebserver.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{6D819322-3E9E-4BD0-B485-156EA5FC0DC7}|TestWebServer.csproj|f:\\spm-app\\app\\server\\testwebserver\\testwebserver.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{6D819322-3E9E-4BD0-B485-156EA5FC0DC7}|TestWebServer.csproj|solutionrelative:testwebserver.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D819322-3E9E-4BD0-B485-156EA5FC0DC7}|TestWebServer.csproj|f:\\spm-app\\app\\server\\testwebserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D819322-3E9E-4BD0-B485-156EA5FC0DC7}|TestWebServer.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D819322-3E9E-4BD0-B485-156EA5FC0DC7}|TestWebServer.csproj|f:\\spm-app\\app\\server\\testwebserver\\testwebserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6D819322-3E9E-4BD0-B485-156EA5FC0DC7}|TestWebServer.csproj|solutionrelative:testwebserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D819322-3E9E-4BD0-B485-156EA5FC0DC7}|TestWebServer.csproj|f:\\spm-app\\app\\server\\testwebserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D819322-3E9E-4BD0-B485-156EA5FC0DC7}|TestWebServer.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +34,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestWebServer",
+              "DocumentMoniker": "F:\\spm-app\\app\\Server\\TestWebServer\\TestWebServer.csproj",
+              "RelativeDocumentMoniker": "TestWebServer.csproj",
+              "ToolTip": "F:\\spm-app\\app\\Server\\TestWebServer\\TestWebServer.csproj",
+              "RelativeToolTip": "TestWebServer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-20T16:03:45.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\spm-app\\app\\Server\\TestWebServer\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "F:\\spm-app\\app\\Server\\TestWebServer\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T16:00:37.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\spm-app\\app\\Server\\TestWebServer\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "F:\\spm-app\\app\\Server\\TestWebServer\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T16:00:19.894Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ServerCore.cs",
-              "DocumentMoniker": "E:\\Unity\\Health Care\\Server\\TestWebServer\\ServerCore.cs",
+              "DocumentMoniker": "F:\\spm-app\\app\\Server\\TestWebServer\\ServerCore.cs",
               "RelativeDocumentMoniker": "ServerCore.cs",
-              "ToolTip": "E:\\Unity\\Health Care\\Server\\TestWebServer\\ServerCore.cs",
+              "ToolTip": "F:\\spm-app\\app\\Server\\TestWebServer\\ServerCore.cs",
               "RelativeToolTip": "ServerCore.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAFcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-22T17:53:58.098Z",
               "EditorCaption": ""
@@ -41,9 +92,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "TestWebServer",
-              "DocumentMoniker": "E:\\Unity\\Health Care\\Server\\TestWebServer\\TestWebServer.csproj",
+              "DocumentMoniker": "F:\\spm-app\\app\\Server\\TestWebServer\\TestWebServer.csproj",
               "RelativeDocumentMoniker": "TestWebServer.csproj",
-              "ToolTip": "E:\\Unity\\Health Care\\Server\\TestWebServer\\TestWebServer.csproj",
+              "ToolTip": "F:\\spm-app\\app\\Server\\TestWebServer\\TestWebServer.csproj",
               "RelativeToolTip": "TestWebServer.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-09-22T17:49:25.552Z",
@@ -53,11 +104,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Unity\\Health Care\\Server\\TestWebServer\\Program.cs",
+              "DocumentMoniker": "F:\\spm-app\\app\\Server\\TestWebServer\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\Unity\\Health Care\\Server\\TestWebServer\\Program.cs",
+              "ToolTip": "F:\\spm-app\\app\\Server\\TestWebServer\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-22T17:41:23.98Z",
               "EditorCaption": ""
